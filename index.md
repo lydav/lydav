@@ -2,6 +2,15 @@
 
 Esto es lo mejoooor de todo 
 
+<img src="CoverFormat.jpg">
+<img src="\CoverFormat.jpg">
+
+<img src="lydav\CoverFormat.jpg">
+
+<img src="lydav\CoverFormat.jpg">
+
+gh-pages/CoverFormat.jpg
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
