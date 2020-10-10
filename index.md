@@ -19,7 +19,7 @@ Vamos a ver
 2. Texto de prueeeeeba
 
 
-[Link](url) and ![Image](src)
+[Link](url) and [CoverFormat.jpg](CoverFormat.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
