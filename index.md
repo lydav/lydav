@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LyDav super test page
 
 You can use the [editor on GitHub](https://github.com/lydav/lydav/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
